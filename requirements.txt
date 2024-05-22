@@ -4,4 +4,6 @@ langchain
 tiktoken
 langchain-community
 langchain-openai
-streamlit
+transformers 
+torch
+sentence-transformers
